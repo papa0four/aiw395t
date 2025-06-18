@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+*/env/
+my_venv/
+*/my_venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python Distribution
+dist/
+build/
+*.egg-info/
+*.egg
+
+# .pth files
+*.pth
